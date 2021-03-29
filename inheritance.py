@@ -5,6 +5,7 @@
 
 # 부모 클래스
 class Animal():
+
     def walk(self):
         print('걷는다.')
 
